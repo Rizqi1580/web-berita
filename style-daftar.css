@@ -1,0 +1,24 @@
+.news-list-container{
+    max-width: 800px;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+.news-item h2{
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1);
+}
+
+.news-item p{
+    font-size: 0.9em;
+    color: #777;
+    background-color: ;
+    margin-bottom: 30px;
+}
